@@ -1,4 +1,4 @@
 # voice-assistant
 A simple Jarvis like voice assistant with useful functionalities.
 
-Password - "admin" (aapakee aavaaj mein)
+Password - "admin" (in your voice)
